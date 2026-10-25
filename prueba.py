@@ -1,0 +1,7 @@
+nombre = input("¿Cómo te llamás? ")
+print(nombre + "? ¡Qué lindo nombre!")
+edad = input("¿Cuántos años tenés? ")
+print("¡" + edad + " años! ¡Qué joven!")
+música = input("¿Qué tipo de música te gusta? ")
+print("¡A mí también me gusta la música " + música + "!")
+print("¡Gracias por compartir tus gustos conmigo, " + nombre + "!")
